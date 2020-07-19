@@ -12,12 +12,12 @@
       }
     ]
   },
-  "description": "Various system metrics from telegraf",
+  "description": "Various system metrics",
   "editable": true,
   "gnetId": null,
   "graphTooltip": 0,
   "id": 3,
-  "iteration": 1595157942556,
+  "iteration": 1595158628736,
   "links": [],
   "panels": [
     {
@@ -3488,7 +3488,7 @@
     ]
   },
   "timezone": "",
-  "title": "Telegraf metrics",
+  "title": "System metrics",
   "uid": "ew4gMx7Gz",
-  "version": 58
+  "version": 62
 }
